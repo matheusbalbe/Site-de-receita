@@ -1,6 +1,6 @@
 <h1 align="center"> Site de receita </h1>
 
-<p align="center">O projeto consiste em uma página web de uma receita, contendo imagem, descrição sobre modo de preparo e ingredientes necessários.</p>
+<p align="center">O projeto consiste em uma página web contendo uma receita, com imagem, e informações sobre modo de preparo e ingredientes necessários.</p>
 
 ## 🚀 Tecnologias
 
