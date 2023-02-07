@@ -19,19 +19,22 @@ body {
 #infos-da-receita {
   display: flex;
   margin: 2px auto;
-
+  justify-content: space-between;
+  text-align: center;
+  font-weight: 700;
 }
-#box1 {
-width: 25%;
-padding: 10px;
-margin: auto;
-background: #EEE;
-border: 1px solid #fff;
-text-align: center;
-border-radius: 10px;
-font-weight: 700;
-justify-content: center; /*Alinha ao centro da pagina*/
-align-items: center; /*Alinha ao centro(main) da caixa*/
+#info1,
+#info2,
+#info3 {
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  background: #eee;
+  border: 1px solid #fff;
+  border-radius: 10px;
+
+  /* justify-content: center; Alinha ao centro da pagina
+align-items: center; Alinha ao centro(main) da caixa */
 }
 /* #infos-da-receita{
     margin: auto;
@@ -43,8 +46,8 @@ align-items: center; /*Alinha ao centro(main) da caixa*/
     width: 100px;
     border-radius: 10px;
     padding: 10px; }*/
-ion-icon{
-  height:30px;
+ion-icon {
+  height: 30px;
   width: 30px;
 }
 h1,
@@ -103,7 +106,6 @@ figcaption {
   margin: 0 auto;
   text-align: right;
   margin-top: 5px;
-
 }
 footer {
   color: #8f8f8f;
