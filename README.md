@@ -2,10 +2,13 @@
 
 <p align="center">O projeto consiste em uma página web contendo uma receita, com imagem, e informações sobre modo de preparo e ingredientes necessários.</p>
 
+<<<<<<< HEAD
 <p align="center">
   <img alt="projeto pagina web de receita" src=".github/preview.png" width="100%">
 </p>
 
+=======
+>>>>>>> 67db64fa7492367e91716f9ae32e3d9903e70097
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
