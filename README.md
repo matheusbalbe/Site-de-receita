@@ -1,4 +1,4 @@
-<h1 align="center"> Site de receita </h1>
+<h1 align="center"> Site de receita :pie: </h1>
 
 <p align="center">O projeto consiste na elaboração de uma página web de receita, com um visual agradável, moderno e informativo para os leitores.</p>
 
