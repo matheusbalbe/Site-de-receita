@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Acesse o projeto finalizado, online](https://matheusbalbe.github.io/Site-de-receita)
+- [Acesse o projeto finalizado, online](https://matheusbalbe.github.io/site-de-receita)
 
 ---
 
