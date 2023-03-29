@@ -18,34 +18,23 @@ body {
 }
 #infos-da-receita {
   display: flex;
+  flex-wrap: wrap;
   margin: 2px auto;
-  justify-content: space-between;
+  align-items: center;
+  justify-content: space-evenly;
   text-align: center;
   font-weight: 700;
 }
-#info1,
-#info2,
-#info3 {
-  width: 25%;
+.box-info {
+  width: 250px;
   padding: 10px;
-  margin: auto;
+  margin: 5px;
+  justify-content: center;
   background: #eee;
   border: 1px solid #fff;
   border-radius: 10px;
-
-  /* justify-content: center; Alinha ao centro da pagina
-align-items: center; Alinha ao centro(main) da caixa */
 }
-/* #infos-da-receita{
-    margin: auto;
-    box-sizing: border-box;
-    background-color: #8f8f8f;
-    height: 80px;
-    text-align: center;
-    justify-content: center;
-    width: 100px;
-    border-radius: 10px;
-    padding: 10px; }*/
+
 ion-icon {
   height: 30px;
   width: 30px;
